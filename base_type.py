@@ -1,6 +1,7 @@
 from  day01 import hyah
 
 
+# diertian-test
  #def:声明方法的关键字；方法名字；下面写方法类容
 def ccc():
     ccc = '你好中国'
